@@ -2,3 +2,7 @@
   list-style-type: none;
   text-align: center;
 }
+
+.focalmenu ul li {
+	display: inline;
+}
