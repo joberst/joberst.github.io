@@ -1,8 +1,8 @@
-#nav {
+#navposition {
   list-style-type: none;
   text-align: center;
 }
 
-.focalmenu ul li {
+.navstyle ul li {
 	display: inline;
 }
