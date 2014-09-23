@@ -6,3 +6,7 @@
 .navstyle ul li {
 	display: inline;
 }
+
+li h2 {
+	font-family: 'Dancing Script', cursive;
+}
