@@ -1,6 +1,6 @@
 #navposition ul {
-  list-style-type: none;
-  text-align: center;
+  	list-style-type: none;
+  	text-align: center;
 }
 
 .navstyle ul li {
@@ -9,4 +9,8 @@
 
 li h2 {
 	font-family: 'Dancing Script', cursive;
+}
+
+h1 {
+	font-family: 'Poiret One', cursive;
 }
