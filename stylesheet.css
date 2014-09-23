@@ -7,10 +7,12 @@
 	display: inline;
 }
 
+h1 {
+	font-family: 'Poiret One', cursive;
+}
+
 li h2 {
 	font-family: 'Dancing Script', cursive;
 }
 
-h1 {
-	font-family: 'Poiret One', cursive;
-}
+
