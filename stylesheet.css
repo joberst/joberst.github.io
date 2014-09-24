@@ -2,14 +2,15 @@
 }
 
 
-#navposition ul {
+#nav ul {
   	list-style-type: none;
   	text-align: center;
+  	border: 2px solid;
 }
 
 .navstyle ul li {
 	display: inline;
-	border: 2px solid;
+	
 }
 
 h1 {
