@@ -26,6 +26,7 @@ nav a {
 	display: inline-block;
 	font-family: 'Poiret One', cursive;
 	font-size: 5.0vh;
+	padding: 5px;
 }
 
 .container {
