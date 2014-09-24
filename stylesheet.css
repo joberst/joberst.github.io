@@ -9,14 +9,14 @@ nav {
 }
 
 
-#nav {
-  	list-style-type: none;
+#nav ul {
+  	
   	
   	
 }
 
 .navstyle ul li {
-	
+	list-style-type: none;	
 	
 }
 
