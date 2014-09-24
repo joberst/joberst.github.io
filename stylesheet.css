@@ -33,13 +33,12 @@ nav a {
 	margin: 0 auto;
 	width:960px;
 	font-family: 'Poiret One', cursive;
-	font-weight: bold;
+	font-weight: bolder;
 	
 	
 }
 
-ul li {
-	list-style-type: none;
+ul li {	list-style-type: none;
 }
 
 
@@ -50,9 +49,5 @@ h1 {
 
 li h2 {
 	font-family: 'Poiret One', cursive;
-	
 }
 
-ul li a {
-	font-weight: bold;
-}
