@@ -25,7 +25,7 @@ nav a {
 	display: inline-block;
 }
 
-body {
+.container {
 	margin: 0 auto;
 }
 
