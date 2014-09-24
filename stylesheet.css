@@ -5,18 +5,20 @@ nav {
 	
 	display: block;
 	text-align: center;
-	border: 2px solid;
+	
   	
 }
 
 #nav ul {
-  	padding: 10px;	
+  	padding: 10px;
+  	border: 2px solid;
+  	list-style-type: none;	
+	text-decoration: none;
 }
   	
 
 .navstyle ul li {
-	list-style-type: none;	
-	text-decoration: none;
+	
 	
 }
 
