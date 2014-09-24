@@ -25,7 +25,9 @@ nav a {
 	display: inline-block;
 }
 
-
+body {
+	margin: auto;
+}
 
 h1 {
 	font-family: 'Poiret One', cursive;
