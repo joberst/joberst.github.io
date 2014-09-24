@@ -34,8 +34,8 @@ nav a {
 	width:960px;
 }
 
-#checkbox {
-	text-decoration: none;
+ul li {
+	list-style-type: none;
 }
 
 
