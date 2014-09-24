@@ -2,9 +2,6 @@
 }
 
 
-
-
-
 // Navigation
 nav {
 	//display: block;
@@ -28,6 +25,7 @@ nav ul li {
 nav a {
 	display: inline-block;
 	font-family: 'Poiret One', cursive;
+	font-size: 2vh;
 }
 
 .container {
