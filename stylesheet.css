@@ -1,16 +1,22 @@
 * {	font-weight: normal !important;
 }
 
+nav {
+	text-align: center;
+	display: inline;
+	border: 2px solid;
+  	padding: 10px;	
+}
 
-#nav ul {
+
+#nav {
   	list-style-type: none;
-  	text-align: center;
-  	border: 2px solid;
-  	padding: 10px;
+  	
+  	
 }
 
 .navstyle ul li {
-	display: inline;
+	
 	
 }
 
