@@ -2,10 +2,7 @@
 }
 
 
-.container {
-	margin: 0 auto;
-	width:960px;
-}
+
 
 
 // Navigation
@@ -30,8 +27,13 @@ nav ul li {
 
 nav a {
 	display: inline-block;
+	font-family: 'Poiret One', cursive;
 }
 
+.container {
+	margin: 0 auto;
+	width:960px;
+}
 
 h1 {
 	font-family: 'Poiret One', cursive;
