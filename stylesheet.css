@@ -1,6 +1,12 @@
 * {	font-weight: normal !important;
 }
 
+
+.container {
+	margin: 0 auto;
+}
+
+
 // Navigation
 nav {
 	//display: block;
@@ -25,9 +31,6 @@ nav a {
 	display: inline-block;
 }
 
-.container {
-	margin: 0 auto;
-}
 
 h1 {
 	font-family: 'Poiret One', cursive;
