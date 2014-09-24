@@ -2,7 +2,6 @@
 }
 
 nav {
-	
 	display: block;
 	text-align: center;
 	
@@ -12,13 +11,13 @@ nav {
 #nav ul {
   	padding: 10px;
   	border: 2px solid;
-  	list-style-type: none;	
-	text-decoration: none;
+  	
 }
   	
 
 .navstyle ul li {
-	
+	list-style-type: none;	
+	text-decoration: none;
 	
 }
 
