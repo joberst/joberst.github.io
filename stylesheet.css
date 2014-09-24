@@ -1,26 +1,27 @@
 * {	font-weight: normal !important;
 }
 
+// Navigation
 nav {
 	display: block;
 	text-align: center;
-	
-  	
 }
 
-#nav ul {
+nav ul {
   	padding: 10px;
   	border: 2px solid;
-  	
+  	list-style: none;
 }
   	
 
-.navstyle ul li {
-	list-style-type: none;	
+nav ul li {
+		
 	text-decoration: none;
 	
 }
 
+
+//TODO List
 h1 {
 	font-family: 'Quicksand', sans-serif;
 }
